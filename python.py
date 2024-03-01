@@ -50,3 +50,8 @@ print("Hello,", name)
 # Output to console
 age = 25
 print("You are", age, "years old.")
+# Encapsulation
+
+# Inherietance
+
+# Plolymorphism
